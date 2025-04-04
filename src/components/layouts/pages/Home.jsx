@@ -159,7 +159,7 @@ const Home = () => {
                       </div>
                       <div className="services-cap">
                         <h5>
-                          <a href="job_listing">Design &amp; Creative</a>
+                          <p href="">Design &amp; Creative</p>
                         </h5>
                         <span>(653)</span>
                       </div>
@@ -172,7 +172,7 @@ const Home = () => {
                       </div>
                       <div className="services-cap">
                         <h5>
-                          <a href="job_listing">Design &amp; Development</a>
+                          <p href="">Design &amp; Development</p>
                         </h5>
                         <span>(658)</span>
                       </div>
@@ -185,7 +185,7 @@ const Home = () => {
                       </div>
                       <div className="services-cap">
                         <h5>
-                          <a href="job_listing">Sales &amp; Marketing</a>
+                          <p href="">Sales &amp; Marketing</p>
                         </h5>
                         <span>(658)</span>
                       </div>
@@ -198,7 +198,7 @@ const Home = () => {
                       </div>
                       <div className="services-cap">
                         <h5>
-                          <a href="job_listing">Mobile Application</a>
+                          <p href="">Mobile Application</p>
                         </h5>
                         <span>(658)</span>
                       </div>
@@ -211,7 +211,7 @@ const Home = () => {
                       </div>
                       <div className="services-cap">
                         <h5>
-                          <a href="job_listing">Construction</a>
+                          <p href="">Construction</p>
                         </h5>
                         <span>(658)</span>
                       </div>
@@ -224,7 +224,7 @@ const Home = () => {
                       </div>
                       <div className="services-cap">
                         <h5>
-                          <a href="job_listing">Information Technology</a>
+                          <p href="">Information Technology</p>
                         </h5>
                         <span>(658)</span>
                       </div>
@@ -237,7 +237,7 @@ const Home = () => {
                       </div>
                       <div className="services-cap">
                         <h5>
-                          <a href="job_listing">Real Estate</a>
+                          <p href="">Real Estate</p>
                         </h5>
                         <span>(658)</span>
                       </div>
@@ -250,7 +250,7 @@ const Home = () => {
                       </div>
                       <div className="services-cap">
                         <h5>
-                          <a href="job_listing">Content Writer</a>
+                          <p href="">Content Writer</p>
                         </h5>
                         <span>(658)</span>
                       </div>
@@ -262,9 +262,9 @@ const Home = () => {
                 <div className="row">
                   <div className="col-lg-12">
                     <div className="browse-btn2 text-center mt-50">
-                      <a href="job_listing" className="border-btn2">
+                      <p href="" className="border-btn2">
                         Browse All Sectors
-                      </a>
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -317,9 +317,9 @@ const Home = () => {
                           </a>
                         </div>
                         <div className="job-tittle">
-                          <a href="job_details.html">
+                          <p href="">
                             <h4>Digital Marketer</h4>
-                          </a>
+                          </p>
                           <ul>
                             <li>Creative Agency</li>
                             <li>
@@ -331,7 +331,7 @@ const Home = () => {
                         </div>
                       </div>
                       <div className="items-link f-right">
-                        <a href="job_details.html">Full Time</a>
+                        <p href="">Full Time</p>
                         <span>7 hours ago</span>
                       </div>
                     </div>
@@ -344,9 +344,9 @@ const Home = () => {
                           </a>
                         </div>
                         <div className="job-tittle">
-                          <a href="job_details.html">
+                          <p href="">
                             <h4>Digital Marketer</h4>
-                          </a>
+                          </p>
                           <ul>
                             <li>Creative Agency</li>
                             <li>
@@ -358,7 +358,7 @@ const Home = () => {
                         </div>
                       </div>
                       <div className="items-link f-right">
-                        <a href="job_details.html">Full Time</a>
+                        <p href="">Full Time</p>
                         <span>7 hours ago</span>
                       </div>
                     </div>
@@ -371,9 +371,9 @@ const Home = () => {
                           </a>
                         </div>
                         <div className="job-tittle">
-                          <a href="job_details.html">
+                          <p href="">
                             <h4>Digital Marketer</h4>
-                          </a>
+                          </p>
                           <ul>
                             <li>Creative Agency</li>
                             <li>
@@ -385,7 +385,7 @@ const Home = () => {
                         </div>
                       </div>
                       <div className="items-link f-right">
-                        <a href="job_details.html">Full Time</a>
+                        <p href="">Full Time</p>
                         <span>7 hours ago</span>
                       </div>
                     </div>
@@ -398,9 +398,9 @@ const Home = () => {
                           </a>
                         </div>
                         <div className="job-tittle">
-                          <a href="job_details.html">
+                          <p href="">
                             <h4>Digital Marketer</h4>
-                          </a>
+                          </p>
                           <ul>
                             <li>Creative Agency</li>
                             <li>
@@ -412,7 +412,7 @@ const Home = () => {
                         </div>
                       </div>
                       <div className="items-link f-right">
-                        <a href="job_details.html">Full Time</a>
+                        <p href="">Full Time</p>
                         <span>7 hours ago</span>
                       </div>
                     </div>

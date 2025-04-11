@@ -129,7 +129,7 @@ const Home = () => {
                             </div>
                           </div>
                           <div className="search-form">
-                            <a href="job">Find job</a>
+                            <a >Find job</a>
                           </div>
                         </form>
                       </div>
@@ -312,7 +312,7 @@ const Home = () => {
                     <div className="single-job-items mb-30">
                       <div className="job-items">
                         <div className="company-img">
-                          <a href="job_details.html">
+                          <a >
                             <img src="assets/img/icon/job-list1.png" alt="" />
                           </a>
                         </div>
@@ -331,7 +331,7 @@ const Home = () => {
                         </div>
                       </div>
                       <div className="items-link f-right">
-                        <p href="">Full Time</p>
+                        <a >Full Time</a>
                         <span>7 hours ago</span>
                       </div>
                     </div>
@@ -339,7 +339,7 @@ const Home = () => {
                     <div className="single-job-items mb-30">
                       <div className="job-items">
                         <div className="company-img">
-                          <a href="job_details.html">
+                          <a>
                             <img src="assets/img/icon/job-list2.png" alt="" />
                           </a>
                         </div>
@@ -358,7 +358,7 @@ const Home = () => {
                         </div>
                       </div>
                       <div className="items-link f-right">
-                        <p href="">Full Time</p>
+                        <a >Full Time</a>
                         <span>7 hours ago</span>
                       </div>
                     </div>
@@ -366,7 +366,7 @@ const Home = () => {
                     <div className="single-job-items mb-30">
                       <div className="job-items">
                         <div className="company-img">
-                          <a href="job_details.html">
+                          <a >
                             <img src="assets/img/icon/job-list3.png" alt="" />
                           </a>
                         </div>
@@ -385,7 +385,7 @@ const Home = () => {
                         </div>
                       </div>
                       <div className="items-link f-right">
-                        <p href="">Full Time</p>
+                        <a >Full Time</a>
                         <span>7 hours ago</span>
                       </div>
                     </div>
@@ -393,7 +393,7 @@ const Home = () => {
                     <div className="single-job-items mb-30">
                       <div className="job-items">
                         <div className="company-img">
-                          <a href="job_details.html">
+                          <a >
                             <img src="assets/img/icon/job-list4.png" alt="" />
                           </a>
                         </div>
@@ -412,7 +412,7 @@ const Home = () => {
                         </div>
                       </div>
                       <div className="items-link f-right">
-                        <p href="">Full Time</p>
+                        <a >Full Time</a>
                         <span>7 hours ago</span>
                       </div>
                     </div>
@@ -599,7 +599,7 @@ const Home = () => {
                           inulpadeserunt mollit aboru. temnthp incididbnt ut
                           labore mollit anim laborum suis aute.
                         </p>
-                        <a href="/about" className="btn post-btn">
+                        <a className="btn post-btn">
                           Post a job
                         </a>
                       </div>
